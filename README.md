@@ -1,11 +1,11 @@
-# google-home-clon
+# Google Home Clon
 
-Este es un clon de la página de inicio de google.
+This is a google home clone design made with pure css, html5 and JS vanilla.
 
-## Live Demo
+## Preview
 
-[Google Home Clone](https://jcmexdev.github.io/google-home-clon/)
+![Google Home Clone](https://i.imgur.com/HXaMBB7.png)
 
-## Screenshot
+## Install
 
-![Screenshot](https://i.imgur.com/HXaMBB7.png)
+You only need clone or download this repo, it's a HTML, CSS and Vanilla Js so you don't need run commands or scripts.
